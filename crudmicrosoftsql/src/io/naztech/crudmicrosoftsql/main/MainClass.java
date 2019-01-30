@@ -52,6 +52,7 @@ public class MainClass {
 		for(CrudModel crudModel: groupBySqlInterface.orderByPracticeMethod("c_name")) {
 			System.out.println(crudModel);
 		}*/
+		System.out.println("hello git");
 	}
 
 }
