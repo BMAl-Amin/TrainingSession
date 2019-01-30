@@ -12,7 +12,7 @@ public class MainClass {
 
 	public static void main(String[] args) {
 		
-		TableSettingsInterface tableSettingsInterface= new TableSettingImplement();
+	/*	TableSettingsInterface tableSettingsInterface= new TableSettingImplement();
 		CrudDaoInterface crudDaoInterface= new CrudDaoImplement();
 		GroupBySqlInterface groupBySqlInterface= new GroupBySqlImplement();
 		
@@ -51,7 +51,7 @@ public class MainClass {
 //		}
 		for(CrudModel crudModel: groupBySqlInterface.orderByPracticeMethod("c_name")) {
 			System.out.println(crudModel);
-		}
+		}*/
 	}
 
 }
